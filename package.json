@@ -1,0 +1,10 @@
+{
+  "name": "dynamic-env-deployment",
+  "version": "1.0.0",
+  "description": "Web application with dynamic environment configuration",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {}
+}

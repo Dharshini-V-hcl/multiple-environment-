@@ -1,0 +1,5 @@
+{
+  "api_url": "https://staging-api.example.com",
+  "version": "v1.2.0",
+  "environment": "Staging"
+}
